@@ -389,10 +389,7 @@ def follow(ses,coki):
 
 logo = ("""\033[1;99m
  
-.dP"Y8 88   88 888888 Yb  dP    db    88b 88  dP"Yb  
-`Ybo." 88   88 88__    YbdP    dPYb   88Yb88 dP   Yb 
-o.`Y8b Y8   8P 88""     8P    dP__Yb  88 Y88 Yb   dP 
-8bodP' `YbodP' 88      dP    dP""""Yb 88  Y8  YbodP                     
+ SALOO
 ══════════════════════════════════════════════════════
    Auther   : SUFYAN
    Facebook : SUFYNO
